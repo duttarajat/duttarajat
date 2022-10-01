@@ -12,7 +12,7 @@
 
 
 
-_Made with a lot of ❤️❤️ by <a href="https://github.com/duttarajat">Rajat Dutta</a>_
+_Made with a lot of ❤️❤️ by **[Rajat Dutta](https://github.com/duttarajat)**_
 
 <!--
 **duttarajat/duttarajat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
