@@ -6,6 +6,11 @@
 * 🔗 Connect with me @ https://www.linkedin.com/in/rajatdutta1/
 * 💞️ I love to learning new things
 
+
+
+
+Made with a lot of ❤️❤️ by @duttarajat
+
 <!--
 **duttarajat/duttarajat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
