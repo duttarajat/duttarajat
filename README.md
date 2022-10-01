@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Rajat Dutta!
-- 🌱 I’m currently learning Data Science and Machine Learning!
-- 💬 Ask me about any technical/technological stuff!
+* 🌱 I’m currently learning Data Science and Machine Learning!
+* 💬 Ask me about any technical/technological stuff!
 - 📫 How to reach me: duttarajat@gmail.com
 
 <!--
