@@ -9,7 +9,7 @@
 
 
 
-Made with a lot of ❤️❤️ by @duttarajat
+<i>Made with a lot of ❤️❤️ by @duttarajat</i>
 
 <!--
 **duttarajat/duttarajat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
