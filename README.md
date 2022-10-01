@@ -1,8 +1,10 @@
-## 👋 Hi there, I'm Rajat Dutta!
+# 🙋🏻‍♂️ Hi there, I'm Rajat Dutta!
 * 🌱 I’m currently learning Data Science and Machine Learning!
 * 💬 Ask me about any technical/technological stuff!
 * 📫 How to reach me: duttarajat@gmail.com
 * 🔗 Connect with me: linkedin.com/in/rajatdutta1
+* 🔭 I’m currently working on end-to-end Data Science projects!
+* 💞️ I love to learning new things and I’m a life long learner
 
 <!--
 **duttarajat/duttarajat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
