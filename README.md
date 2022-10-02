@@ -4,7 +4,7 @@
 * 💬 Ask me about any technical/technological stuff!
 * 📫 Reach me @ duttarajat@gmail.com
 * 🔗 Connect with me @ https://www.linkedin.com/in/rajatdutta1/
-* ❤️ I love to learning new things
+* ❤️ I love learning new things
 
 
 
