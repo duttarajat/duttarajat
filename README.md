@@ -1,7 +1,7 @@
 # 🙋🏻‍♂️ Hi there, I'm Rajat Dutta!
 * 🌱 I’m a life long learner, currently learning Data Science!
 * 🔭 I’m currently working on end-to-end Data Science projects!
-* 🧰 My analytics toolbox contains Python, SQL, DAX, Tableau, Power BI, MS Excel
+* 🧰 My analytics toolbox contains Python, SQL, DAX, Tableau, Power BI & MS Excel
 * 📚 Predictive Analytics Libraries Numpy, Pandas, Matplotlib, Seaborn, ScikitLearn
 * 💬 Ask me about any technical/technological stuff!
 * 📫 Reach me @ **[Gmail](mailto:duttarajat@gmail.com)** - duttarajat@gmail.com
