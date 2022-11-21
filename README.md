@@ -2,7 +2,7 @@
 * 🌱 I’m a life long learner, currently learning Data Science!
 * 🔭 I’m currently working on end-to-end Data Science projects!
 * 🧰 My analytics toolbox contains Python, SQL, DAX, Tableau, Power BI & MS Excel
-* 📚 Predictive Analytics Libraries Numpy, Pandas, Matplotlib, Seaborn, ScikitLearn, Tensorflow, Keras, TFLearn
+* 📚 Predictive Analytics Libraries: Numpy, Pandas, Matplotlib, Seaborn, ScikitLearn, Tensorflow, Keras, TFLearn
 * 💬 Ask me about any technical/technological stuff!
 * 📫 Reach me @ **[Gmail](mailto:duttarajat@gmail.com)** - duttarajat@gmail.com
 * 🔗 Connect with me @ **[LinkedIn](https://www.linkedin.com/in/rajatdutta1/)** - www.linkedin.com/in/rajatdutta1
