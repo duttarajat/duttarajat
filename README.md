@@ -1,6 +1,6 @@
 # 🙋🏻‍♂️ Hi there, I'm Rajat Dutta!
 * 🌱 I’m a life long learner, currently learning Data Science!
-* 🔭 I’m currently working on end-to-end Data Science projects!
+* 🔭 I’m currently working on end-to-end Data projects!
 * 🧰 My analytics toolbox contains Python, SQL, DAX, Tableau, Power BI & MS Excel
 * 📚 Predictive Analytics Libraries: Numpy, Pandas, Matplotlib, Seaborn, ScikitLearn, Tensorflow, Keras, TFLearn
 * 💬 Ask me about any technical/technological stuff!
