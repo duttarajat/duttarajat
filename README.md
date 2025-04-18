@@ -1,4 +1,4 @@
-# 🙋🏻‍♂️ Hi there, I'm Rajat Dutta!
+# 🙋🏻‍♂️ Hi there, I'm Rajat!
 * 🌱 I’m a life long learner, currently learning Data Science!
 * 🔭 I’m currently working on end-to-end Data projects!
 * 🧰 My analytics toolbox contains Python, SQL, DAX, Tableau, Power BI, Qlik Sense & MS Excel
